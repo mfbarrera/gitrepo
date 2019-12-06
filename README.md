@@ -6,3 +6,5 @@ the project will include:
 * test
 * Comandos git init arrancar el repo
 * new things
+* coko & fer
+* Odie & baloo
